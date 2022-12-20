@@ -1,0 +1,15 @@
+D:\projects\csharp\mirea\obj\Debug\net6.0\mirea.csproj.AssemblyReference.cache
+D:\projects\csharp\mirea\obj\Debug\net6.0\mirea.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\csharp\mirea\obj\Debug\net6.0\mirea.AssemblyInfoInputs.cache
+D:\projects\csharp\mirea\obj\Debug\net6.0\mirea.AssemblyInfo.cs
+D:\projects\csharp\mirea\obj\Debug\net6.0\mirea.csproj.CoreCompileInputs.cache
+D:\projects\csharp\mirea\bin\Debug\net6.0\mirea.exe
+D:\projects\csharp\mirea\bin\Debug\net6.0\mirea.deps.json
+D:\projects\csharp\mirea\bin\Debug\net6.0\mirea.runtimeconfig.json
+D:\projects\csharp\mirea\bin\Debug\net6.0\mirea.dll
+D:\projects\csharp\mirea\bin\Debug\net6.0\mirea.pdb
+D:\projects\csharp\mirea\obj\Debug\net6.0\mirea.dll
+D:\projects\csharp\mirea\obj\Debug\net6.0\refint\mirea.dll
+D:\projects\csharp\mirea\obj\Debug\net6.0\mirea.pdb
+D:\projects\csharp\mirea\obj\Debug\net6.0\mirea.genruntimeconfig.cache
+D:\projects\csharp\mirea\obj\Debug\net6.0\ref\mirea.dll
